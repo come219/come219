@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @come219, Sebastian St J. : https://github.com/come219-bot
-     related account: @come219-bot : https://github.com/come219-bot
+- 👋 Hi, I’m @come219, 
+
+          Sebastian St J. : https://github.com/come219-bot
+          related account: @come219-bot : https://github.com/come219-bot
 
 - ✍️ I’m currently working on: 
 
