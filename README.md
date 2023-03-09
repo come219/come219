@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @come219, 
 
-          Sebastian St J. : https://github.com/come219-bot
+          Sebastian St J. : https://github.com/come219
           related account: @come219-bot : https://github.com/come219-bot
 
 - ✍️ I’m currently working on: 
